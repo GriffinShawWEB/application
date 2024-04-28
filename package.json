@@ -1,7 +1,7 @@
 {
   "name": "resws",
   "version": "0.1.0",
-  "homepage": "https://GriffinShawWEB.github.io/application",
+  "homepage": "https://griffinshawweb.github.io/application/",
   "private": false,
   "dependencies": {
     "@emailjs/browser": "^3.12.1",
